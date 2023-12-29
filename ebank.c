@@ -280,8 +280,6 @@ void retrait(compte *compte){
             printf("Format de date invalide. Veuillez réessayer.\n");
         }
     }
-    //printf("Date de retrait (jj/mm/aaaa) : ");
-    //fgets(date,12,stdin);
     printf("Montant de retrait: ");
     scanf("%f",&montant);
     getchar();
