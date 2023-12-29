@@ -25,7 +25,7 @@ L'application E-Bank est écrite en C et utilise les structures de données suiv
 Pour exécuter l'application :
 
 ```bash
-gcc -o ebank main.c
+gcc -o ebank ebank.c
 ./ebank
 
 
