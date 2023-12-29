@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include <ctype.h>
+#include<ctype.h>
 
 #define tauxChangeEUR_TND 3.39
 #define tauxChangeUSD_TND 3.06
