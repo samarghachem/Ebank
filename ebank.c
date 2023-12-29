@@ -34,7 +34,7 @@ void ajouterCompte(compte *compte);
 void miseajour(compte *compte);
 void retrait(compte *compte);
 void versement(compte *compte);
-void virement(compte *c1); // virement fait à partir du compte c1 vers le compte c2
+void virement(compte *c1); // virement fait à partir du compte c1 
 void afficherTransactions(compte *compte);
 compte* rechercherCompte(int numero); // rechercher le compte dont le numéro est numero
 void supprimerTransactions(transaction *transaction);
